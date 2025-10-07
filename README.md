@@ -2,4 +2,4 @@
 
 **Languages and Tools :**
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,express,figma,tailwind,github,ts,spring,js,linux,mongodb,mysql,nodejs,postgres,postman,prisma,react,idea,css,html,ubuntu,vite,vscode,git,&perline=8)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,express,figma,tailwind,github,ts,spring,js,linux,mongodb,mysql,nodejs,postgres,postman,prisma,react,idea,css,html,ubuntu,vite,vscode,git)](https://skillicons.dev)<br/>
