@@ -2,4 +2,6 @@
 
 **Languages and Tools :**
 
-[![SkillIcons](https://skillicons.dev/icons?i=java,express,figma,tailwind,github,ts,spring,js,linux,mongodb,mysql,nodejs,postgres,postman,prisma,react,idea,css,html,ubuntu,vite,vscode,git)](https://skillicons.dev)<br/>
+[![SkillIcons](https://skillicons.dev/icons?i=java,express,figma,tailwind,github,ts,spring,js,linux,mongodb,mysql,nodejs,postgres,postman,prisma,react,idea,css,html,ubuntu,vite,vscode,git)](https://github.com/RaniduNethma)<br/>
+
+[![An image of @ranidunethma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ranidunethma)](https://holopin.io/@ranidunethma)
